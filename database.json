@@ -1,0 +1,34 @@
+{
+  "portfolio": {
+    "opening_balance": 10000.0,
+    "current_balance": 10001.146981913374,
+    "available_balance": 7000.0
+  },
+  "ongoing_trades": [
+    {
+      "trade_id": "trade_dbf0ce58-cb12-4d4f-8504-0fbfdaf9313e",
+      "pair": "BTC/USD",
+      "type": "buy",
+      "entry_price": 113325,
+      "amount": 1000,
+      "stop_loss": 112758.375,
+      "take_profit": 114458.25,
+      "profit_loss": 0.8206485771012575,
+      "timestamp": "2025-07-10T19:59:44.110461Z"
+    },
+    {
+      "trade_id": "trade_9e5c83cd-381b-4cdf-a44e-8b5425d3dbee",
+      "pair": "BTC/USD",
+      "type": "buy",
+      "entry_price": 113381,
+      "amount": 1000,
+      "stop_loss": 112814.095,
+      "take_profit": 114514.81,
+      "profit_loss": 0.3263333362732733,
+      "timestamp": "2025-07-10T20:09:04.805691Z"
+    }
+  ],
+  "current_prices": {
+    "BTC/USD": 113418
+  }
+}
